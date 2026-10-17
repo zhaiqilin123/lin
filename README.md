@@ -1,2 +1,2 @@
 # lin
-This is my first demo
+This is my repo for interview preparation.
